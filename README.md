@@ -4,9 +4,12 @@ Central de Intercâmbio e Reutilização de Acervos
 ## Integrantes 
 | Apelido  | Nome           | E-mail                         | Matrícula |
 | -------  | ---------      | ----                           | ---- |
+| OliveiraViktor  | Luan Viktor Oliveira Silva | oliveira.silva@aluno.ufca.edu.br | 2026002729 |1
 | TocaiaLd | Wesley Silva Alves | wesley.alves@aluno.ufca.edu.br | 2026002578 |
-| Raimundo77733 | Raimundo Gilmar Pereira Damaceno Junior | raimundo_0x7c4@tuta.io | 2026005954 |
-| OliveiraViktor  | Luan Viktor Oliveira Silva | osiviktornaul@gmail.com | 2026002729 |
+| Raimundo77733 | Raimundo Gilmar Pereira Damaceno Junior | raimundo.pereira@aluno.ufca.edu.br | 2026005954 |
+| eliseucz | Eliseu Oliveira Ferreira | eliseu.ferreira@aluno.ufca.edu.br | 2026005990 |
+| emanuelhilley | Emanuel Hilley Alves Oliveira | emanuel.hilley@aluno.ufca.edu.br | 2026006002 |
+
 
 ## Domínio 
 
